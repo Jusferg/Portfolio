@@ -1,5 +1,5 @@
 body {
-    background-color: tan;
+    background-image: url(Everyo);
     border: 3px solid black;
     
 }
@@ -32,5 +32,15 @@ h1 {
 }
 
 footer {
+    border: 1px solid black;
     text-align: center;
+    height: 40px;
 }
+
+.fa-brands {
+    letter-spacing: 10px; 
+    margin-bottom: 10px; 
+    padding-top: 20px
+     
+}
+
