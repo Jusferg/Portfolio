@@ -1,0 +1,36 @@
+body {
+    background-color: tan;
+    border: 3px solid black;
+    
+}
+
+h1 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.container {
+    background-color: white;
+    
+}
+
+.img {
+    display: block;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    float: center;
+    margin: auto;
+}
+
+.nav {
+    text-align: right;
+}
+
+.portfolio {
+    letter-spacing: 4px;
+}
+
+footer {
+    text-align: center;
+}
