@@ -1,11 +1,13 @@
 body {
     background-image: url("geometry-pic.jpg");
     border: 3px solid black;
-    
 }
 
-h3 {
+.text {
     text-align: center;
+    color: white;
+    font-size: 50px;
+    font-family: serif;
 }
 
 section h1 {
@@ -29,15 +31,7 @@ section p {
     
 }
 
-.container {
-    background-color: white;
-    height: 600px;
-    width: 900px;
-    margin: 0 auto;
-}
-
 .project-container {
-    background-color: white;
     margin: 0 auto;
 }
 
