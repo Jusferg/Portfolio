@@ -33,6 +33,7 @@ p {
 
 a {
     border-radius: 5px;
+    color: white;
 }
 
 a:link {
@@ -173,6 +174,7 @@ footer {
     border: 1px solid white;
     text-align: center;
     height: 40px;
+    color: white;
 }
 
 .fa-brands {
